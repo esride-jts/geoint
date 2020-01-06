@@ -1,10 +1,10 @@
 ## Geospatial Intelligence
 
-Geospatial Intelligence analyses various kinds of geospatial informations.
+Geospatial Intelligence means analysing various kinds of geospatial informations for creating geospatial knowledge.
 
 ### GEOINT Recon
 
-GEOINT Recon is a native desktop application using ArcGIS Runtime for Qt.
+GEOINT Recon is a native desktop application showing the capabilities for geospatial intelligence using ArcGIS Runtime for Qt.
 
 ```markdown
 Syntax highlighted code block
