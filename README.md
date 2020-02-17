@@ -7,7 +7,7 @@ GEOINT Toolbox is a python toolbox for ArcGS Pro accessing Big Query Tables and 
 
 ### GEOINT Recon
 
-GEOINT Recon is a native desktop application showing the capabilities for geospatial intelligence using [ArcGIS Runtime for Qt](https://developers.arcgis.com/qt/).
+[GEOINT Recon](https://github.com/esride-jts/geoint-recon) is a native desktop application showing the capabilities for geospatial intelligence using [ArcGIS Runtime for Qt](https://developers.arcgis.com/qt/).
 
 ### Support or Contact
 
