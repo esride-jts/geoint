@@ -2,6 +2,9 @@
 
 This intelligence discipline represents the analysis of geospatial informations for creating geospatial knowledge. Usually the analyst needs various kinds of geospatial related tools to create this knowledge.
 
+### GEOINT Rust
+[GEOINT Rust](https://github.com/esride-jts/geoint-rs) is a bunch of geospatial intelligence tools implemented in Rust.
+
 ### GEOINT Toolbox
 [GEOINT Toolbox](https://github.com/esride-jts/geoint-toolbox/) is a python toolbox for ArcGS Pro accessing Big Query Tables and Data Lakes.
 
