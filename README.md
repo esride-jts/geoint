@@ -15,6 +15,6 @@ This intelligence discipline represents the analysis of geospatial informations 
 
 [GEOINT Recon](https://github.com/esride-jts/geoint-recon) is a native desktop map application showing the capabilities for geospatial intelligence using [ArcGIS Runtime for Qt](https://developers.arcgis.com/qt/).
 
-### Support or Contact
+### GEOINT Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Various blog posts why and how to create geospatial knowledge can be enjoyed using [Geospatial Intelligence @ Medium](https://medium.com/geospatial-intelligence).
